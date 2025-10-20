@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/portainer", "destination": "http://191.183.223.201:9000" },
+    { "source": "/n8n", "destination": "http://191.183.223.201:5678" },
+    { "source": "/npm", "destination": "http://191.183.223.201:81" }
+  ]
+}
