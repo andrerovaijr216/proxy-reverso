@@ -1,7 +1,7 @@
 {
   "rewrites": [
-    { "source": "/portainer", "destination": "http://191.183.223.201:9000" },
-    { "source": "/n8n", "destination": "http://191.183.223.201:5678" },
-    { "source": "/npm", "destination": "http://191.183.223.201:81" }
+    { "source": "/portainer", "destination": "https://meu-tunel-portainer.localtunnel.me" },
+    { "source": "/n8n", "destination": "https://meu-tunel-n8n.localtunnel.me" },
+    { "source": "/npm", "destination": "https://meu-tunel-npm.localtunnel.me" }
   ]
 }
